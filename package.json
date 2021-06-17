@@ -1,5 +1,5 @@
 {
-  "name": "XinzBot",
+  "name": "Pico Chan",
   "version": "1.0.0",
   "description": "Ga ada",
   "main": "main.js",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
   },
-  "author": "aqulzz",
+  "author": "Shahril Hensem",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/Baileys",
     "@vitalets/google-translate-api": "^7.0.0",
