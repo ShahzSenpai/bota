@@ -11,7 +11,7 @@ ${i.free} ${prefix}runtime
 ${i.free} ${prefix}speed
 ${i.free} ${prefix}owner
 ${i.free} ${prefix}donasi
-
+${i.free} ${prefix}hentai
 
 *Coverter / Tools*
 ${i.limit} ${prefix}sticker
